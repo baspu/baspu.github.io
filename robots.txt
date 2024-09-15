@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://baspu.github.io/KnM/sitemap.KnM.gz
